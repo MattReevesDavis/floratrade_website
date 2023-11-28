@@ -124,7 +124,7 @@ body {
 .header-right-container {
 	width: 50%;
 	height: 100%;
-	background-image: url('/img/proteas_3_dark.png');
+	background-image: url('../img/proteas_3_dark.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -321,7 +321,7 @@ body {
 .about-right-container {
 	width: 50%;
 	height: 100%;
-	background-image: url('/img/proteas_4_dark.png');
+	background-image: url('../img/proteas_4_dark.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -437,7 +437,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	padding: 3rem 2rem;
-	background-image: url('/img/proteas_1_dark.png');
+	background-image: url('../img/proteas_1_dark.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -561,7 +561,7 @@ body {
 
 	.header-left-container {
 		width: 100%;
-		background-image: url('/img/proteas_3_darker.png');
+		background-image: url('../img/proteas_3_darker.png');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
@@ -602,7 +602,7 @@ body {
 	.about-left-container {
 		width: 100%;
 		border-radius: 0;
-		background-image: url('/img/proteas_4_darker.png');
+		background-image: url('../img/proteas_4_darker.png');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
@@ -636,7 +636,7 @@ body {
 
 	.header-left-container {
 		width: 100%;
-		background-image: url('/img/proteas_3_darker.png');
+		background-image: url('../img/proteas_3_darker.png');
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center;
